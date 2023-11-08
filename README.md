@@ -3,7 +3,7 @@
 </div>  
   
 
- <div align="center">🔭Olá, Meu nome é Valmir Augusto.</div>  
+ ### <div align="center">🔭Olá, Meu nome é Valmir Augusto.</div>  
   
 
 - 🌱 Acadêmico em ciência da computação 5° periodo  
