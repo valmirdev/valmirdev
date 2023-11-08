@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Minhas skills:  
 <table><tr><td valign="top" width="33%">
 
 
