@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="	https://valmirdeveloper.com.br/img/valmirdeveloper.jpg
-"  />
+<img align="right" height="150" src="	https://valmirdeveloper.com.br/img/valmirdeveloper.jpg"  />
 
 ###
 
