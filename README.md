@@ -73,9 +73,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=valmirdeveloper&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-<a href="https://widget.deezer.com/widget/dark/playlist/1386448677">deezer</a>
   
 
 <br/>  
