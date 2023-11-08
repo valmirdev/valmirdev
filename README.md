@@ -74,6 +74,8 @@
 
 <br/>  
 
+
+<a href="https://widget.deezer.com/widget/dark/playlist/1386448677">deezer</a>
   
 
 <br/>  
