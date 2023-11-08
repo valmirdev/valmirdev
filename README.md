@@ -51,7 +51,7 @@
 <a href="https://github.com/valmirdeveloper" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=61552366738793" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61552366738793" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/https://www.instagram.com/valmirdeveloper" target="_blank">
