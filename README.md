@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/92243436?v=4" align="center" height="100" width="100" "border-radius: 80px;">
+<img src="https://avatars.githubusercontent.com/u/92243436?v=4" align="center" height="100" width="200" "border-radius: 80px;">
 </div>  
   
 
