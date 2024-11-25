@@ -6,7 +6,7 @@
  ### <div align="center">🔭Olá, Meu nome é Valmir Augusto.</div>  
   
 
-- 🌱 Acadêmico em ciência da computação 2° periodo  
+- 🌱 Acadêmico em ciência da computação 3° periodo  
   
 
 - ❓Estou disponível para conversar sobre as tecnologias relacionadas.  
