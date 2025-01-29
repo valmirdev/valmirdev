@@ -3,7 +3,9 @@
 </div>  
   
 
- ### <div align="center">🔭Olá, Meu nome é Valmir Augusto.</div>  
+ <h2 align="left">Olá 👋! Meu nome é Valmir augusto!<br>Seja muito bem vindo(a) ao meu perfil do Github 🚀</h2>
+
+###
   
 
 - 🌱 Acadêmico em ciência da computação 5° periodo.
@@ -94,4 +96,7 @@
 
 
 fim
+
+
+
 
