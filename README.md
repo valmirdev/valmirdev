@@ -1,8 +1,8 @@
-<h2 align="left">Olá 👋! Meu nome é Vinícius Rocha Lima!<br>Seja muito bem vindo(a) ao meu perfil do Github 🚀</h2>
+<h2 align="left">Olá 👋! Meu nome é Valmir augusto!<br>Seja muito bem vindo(a) ao meu perfil do Github 🚀</h2>
 
 ###
 
-<p align="left">Trabalho na área de tecnologia há mais de 20 anos e sou apaixonado pela linguagem Python!<br><br>Utilizo a linguagem desde o início da minha carreira para:<br><br> </p>- Inteligência artificial <br/> - Análise de Dados<br>- Automação de Processos<br>- Engenharia de Dados</p>
+<p align="left">Estudo tecnologia há 3 anos e sou apaixonado pela linguagem Python!<br><br>Utilizo a linguagem desde o início da minha faculdade para:<br><br> </p>- Inteligência artificial <br/> - Análise de Dados<br>- Automação de Processos<br>- Engenharia de Dados</p>
 
 ###
 
