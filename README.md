@@ -16,10 +16,7 @@
 
 - ❓Estou disponível para conversar sobre as tecnologias relacionadas.  
   
-
-- ⚡ This is my climb!  
   
-
 <br/>  
 
 
