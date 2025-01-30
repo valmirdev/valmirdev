@@ -59,7 +59,9 @@
 
 
 
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=valmirdeveloper&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
