@@ -73,7 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/valmirdev/valmirdev/main/snake.svg" alt="Snake animation" />
 
 ###
 
