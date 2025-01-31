@@ -53,7 +53,7 @@
 
 <br/> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valmirdev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valmirdev&langs_count=8)
 
 
 
