@@ -13,6 +13,10 @@
 
 ###
 
+<h2 align="left">Minhas skills:</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -49,7 +53,21 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/valmirdev/valmirdev/refs/heads/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/valmirdev/valmirdev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31p4lqvg2sdbb5vpobw4cfchqqmm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31p4lqvg2sdbb5vpobw4cfchqqmm&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/valmirdev/count.svg?"  />
+</div>
 
 ###
 
