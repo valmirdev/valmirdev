@@ -1,9 +1,3 @@
-
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/92243436?v=4" align="center" height="130" width="130" />
-</div> 
-
-
 <h3 align="left">Olá 👋! Meu nome é Valmir augusto!<br>Seja muito bem vindo(a) ao meu perfil do Github 🚀</h2>
 
 ####
