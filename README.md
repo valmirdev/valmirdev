@@ -2,9 +2,9 @@
 
 ####
 
-<p align="left">Estudo tecnologia há mais de 3 anos e sou apaixonado pela linguagem Python!<br><br>Utilizo a linguagem desde o início da minha faculdade para:<br><br> </p>- Inteligência artificial <br/> - Análise de Dados<br>- Automação de Processos<br></p>
+<p align="left">Estudo tecnologia há mais de 3 anos e sou apaixonado pela linguagem Python!<br><br>Utilizo a linguagem desde o início da minha faculdade para:<br><br> </p>- Análise de Dados <br/> - Automação de Processos<br>- Inteligência artificial<br></p>
    
-
+Automação de Processos Inteligência artificial
 ## Minhas skills  
 <table><tr><td valign="top" width="33%">
 
