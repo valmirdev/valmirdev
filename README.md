@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Adoro a linguagem Python.<br>-Programo nela desde 2019, quando iniciei a faculdade.</p>
+<p align="left">-Estudo a linguagem Python.<br>-Programo nela desde 2019, quando iniciei a faculdade.</p>
 
 ###
 
