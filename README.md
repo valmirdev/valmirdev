@@ -31,6 +31,7 @@ Em busca de oportunidades para aplicar meus conhecimentos, crescer profissionalm
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30" />
           
+          
                     
 </div>
 
