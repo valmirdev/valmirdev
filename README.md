@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">-Estudo a linguagem Python.<br>-Programo nela desde 2019, quando iniciei a faculdade.</p>
+<p align="left">-Gari na COMLURB-RJ há 22 anos, em transição para a área de tecnologia, cursando Análise e Desenvolvimento de Sistemas e Administração, com estudos em Vue e Next.js.
+Em busca de oportunidades para aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções inovadoras em tecnologia.</p>
 
 ###
 
