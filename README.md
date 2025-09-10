@@ -54,11 +54,7 @@ Em busca de oportunidades para aplicar meus conhecimentos, crescer profissionalm
 
 <img src="https://raw.githubusercontent.com/valmirdev/valmirdev/refs/heads/main/snake.svg" alt="Snake animation" />
 
-###
 
-
-
-###
 
 
 
