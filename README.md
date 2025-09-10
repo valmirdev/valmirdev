@@ -56,9 +56,7 @@ Em busca de oportunidades para aplicar meus conhecimentos, crescer profissionalm
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/valmirdev/count.svg?"  />
-</div>
+
 
 ###
 
