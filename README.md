@@ -7,8 +7,6 @@ Em busca de oportunidades para aplicar meus conhecimentos, crescer profissionalm
 
 ###
 
-
-
 ###
 
 <h2 align="left">Minhas skills:</h2>
