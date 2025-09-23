@@ -1,10 +1,5 @@
 <h2 align="left">Olá! Meu nome é Valmir!<br>Seja Bem vindo ao meu perfil do Github.</h2>
 
-
-###
-
-###
-
 <h2 align="left">Minhas skills:</h2>
 
 ###
