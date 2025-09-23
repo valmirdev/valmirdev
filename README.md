@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">Atualmente cursando Administração e Análise e Desenvolvimento de Sistemas, buscando unir conhecimentos de gestão e tecnologia para desenvolver soluções inovadoras e estratégicas. Tenho me dedicado ao aprendizado em ReactJS e NextJS, fortalecendo minhas habilidades em desenvolvimento web e ampliando minha visão para atuar de forma integrada entre negócios e tecnologia.
-Em busca de oportunidades para aplicar meus conhecimentos, crescer profissionalmente e contribuir com soluções inovadoras em tecnologia.</p>
+<p align="left">Atualmente cursando Administração e Análise e Desenvolvimento de Sistemas, buscando unir conhecimentos de gestão e tecnologia para desenvolver soluções inovadoras e estratégicas. Tenho me dedicado ao aprendizado em ReactJS e NextJS, fortalecendo minhas habilidades em desenvolvimento web e ampliando minha visão para atuar de forma integrada entre negócios e tecnologia.</p>
 
 ###
 
