@@ -1,9 +1,6 @@
 <h2 align="left">Olá! Meu nome é Valmir!<br>Seja Bem vindo ao meu perfil do Github.</h2>
 
 ###
-
-<p align="left">Atualmente cursando Administração e Análise e Desenvolvimento de Sistemas, buscando unir conhecimentos de gestão e tecnologia para desenvolver soluções inovadoras e estratégicas. Tenho me dedicado ao aprendizado em ReactJS e NextJS, fortalecendo minhas habilidades em desenvolvimento web e ampliando minha visão para atuar de forma integrada entre negócios e tecnologia.</p>
-
 ###
 
 ###
